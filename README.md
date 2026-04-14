@@ -116,6 +116,8 @@ The design follows a **hierarchical modular architecture**.
 ### Status Output
 - `measurement_control → led[3:0]`
 
+### List of used references 
+https://www.hackster.io/abdularbi17/ultrasonic-sensor-hc-sr04-with-arduino-tutorial-327ff6
 
 
 ## Team Members
